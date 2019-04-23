@@ -1,4 +1,4 @@
-# 教你用 Python 来玩微信跳一跳
+# 教你用 Python 来玩微信跳一跳asdasd
 [![GitHub stars](https://img.shields.io/github/stars/wangshub/wechat_jump_game.svg)](https://github.com/wangshub/wechat_jump_game/stargazers) [![GitHub forks](https://img.shields.io/github/forks/wangshub/wechat_jump_game.svg)](https://github.com/wangshub/wechat_jump_game/network) [![GitHub license](https://img.shields.io/github/license/wangshub/wechat_jump_game.svg)](https://github.com/wangshub/wechat_jump_game/blob/master/LICENSE)
 
 [![Throughput Graph](https://graphs.waffle.io/wangshub/wechat_jump_game/throughput.svg)](https://waffle.io/wangshub/wechat_jump_game/metrics/throughput) 
